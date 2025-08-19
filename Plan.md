@@ -1,5 +1,6 @@
 # Plan for Project
-Starting on the week of August 18th
+Start on August 18th
+End on November 1st
 ## Week 1:
       * Find websites
       * Scrape websites
